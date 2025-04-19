@@ -1,0 +1,7 @@
+﻿  Reversi.cpp
+C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\Reversi\Reversi.cpp(627,39): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\Reversi\Reversi.cpp(632,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\Reversi\Reversi.cpp(637,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\Reversi\Reversi.cpp(651,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\Reversi\Reversi.cpp(656,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Reversi.vcxproj -> C:\Users\dod83\source\repos\리버시\Reversi\Reversi (10)\x64\Debug\Reversi.exe
